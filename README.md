@@ -8,11 +8,11 @@ After this course we will understand the Basics SpringBoot operation and structu
 
 [SpringBoot Part2 - Use SpringBoot, Setting dependencies, @Scopes, DevTools](https://github.com/Leone717/First_Spring_Boot/blob/master/SpringBoot%20part2%20-%20Use%20Springboot%2C%20Setting%20dependecies%2C%20%20%40Scopes%2C%20DevTools.md)
 
-  [SpringBoot part3 - Dependency Injection, Service, Pojo, XML Config](https://github.com/Leone717/First_Spring_Boot/blob/master/SpringBoot%20part3%20-%20Dependency%20Injection%2C%20Service%2C%20Pojo%2C%20XML%20Config.md)
+  [SpringBoot Part3 - Dependency Injection, Service, Pojo, XML Config](https://github.com/Leone717/First_Spring_Boot/blob/master/SpringBoot%20part3%20-%20Dependency%20Injection%2C%20Service%2C%20Pojo%2C%20XML%20Config.md)
 
-  [SpringBoot part4 - External configuration (application.properties), Annotations](https://github.com/Leone717/First_Spring_Boot/blob/master/SpringBoot%20part4%20-%20External%20configuration%20(application.properties)%2C%20Annotations%20.md)
+  [SpringBoot Part4 - External configuration (application.properties), Annotations](https://github.com/Leone717/First_Spring_Boot/blob/master/SpringBoot%20part4%20-%20External%20configuration%20(application.properties)%2C%20Annotations%20.md)
 
-  [SpringBoot part5 - Classes, @SpringBootApplication](https://github.com/Leone717/First_Spring_Boot/blob/master/SpringBoot%20part5%20-%20Classes%2C%20%40SpringBootApplication%20.md)
+  [SpringBoot Part5 - Classes, @SpringBootApplication](https://github.com/Leone717/First_Spring_Boot/blob/master/SpringBoot%20part5%20-%20Classes%2C%20%40SpringBootApplication%20.md)
 
 __SpringBoot Structure:__
 
